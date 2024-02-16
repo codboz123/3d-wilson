@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 :root{
+    --branco: #ffffff;
     --azul: #0418E0;
     --verde: #41E06E;
     --vermelho: #E04141;
@@ -16,4 +17,9 @@
     --botao-inativo: rgba(224, 65, 65, 0.5);
     --botao-inativo: rgba(224, 190, 65, 0.5);
 
+}
+body{
+    background-color: var(--cinza);
+    color: var(--branco);
+    font-family: 'Ubuntu';
 }
