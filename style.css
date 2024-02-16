@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+:root{
+    --azul: #0418E0;
+    --verde: #41E06E;
+    --vermelho: #E04141;
+    --amarelo: #E0BE41;
+    --vinho: #8F4D4D;
+    --cinza: #4D4E61;
+    --botao-ativo: rgba(4, 24, 224, 1);
+    --botao-ativo: rgba(65, 224, 110, 1);
+    --botao-ativo: rgba(224, 65, 65, 1);
+    --botao-ativo: rgba(224, 190, 65, 1);
+    --botao-inativo: rgba(4, 24, 224, 0.5);
+    --botao-inativo: rgba(65, 224, 110, 0.5);
+    --botao-inativo: rgba(224, 65, 65, 0.5);
+    --botao-inativo: rgba(224, 190, 65, 0.5);
+
+}
