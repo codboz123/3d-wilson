@@ -40,3 +40,7 @@ body{
 .titulo-principal span{
     color: var(--verde);
 }
+
+.botao{
+    font-family: 'Chakra Petch' , 'Dancing Script';
+}
