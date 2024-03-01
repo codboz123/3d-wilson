@@ -45,4 +45,7 @@ body{
     font-family: 'Chakra Petch' , 'Dancing Script';
     background-color: var(--botao-inativo);
     color: var(--branco);
+    display: flex;
+    justify-content: center;
+    
 }
