@@ -47,5 +47,7 @@ body{
     color: var(--branco);
     display: flex;
     justify-content: center;
-    
+    padding: 1em;
+    font-size: 10px;
+    align-items: center;
 }
